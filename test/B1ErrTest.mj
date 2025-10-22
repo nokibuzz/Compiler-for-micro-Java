@@ -1,0 +1,13 @@
+program B1ErrTest
+
+	int a, b;
+	
+{
+	void method(int c, int err]) {
+		c + err;
+	}
+	
+	void main()	{
+
+	}
+}

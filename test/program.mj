@@ -1,0 +1,19 @@
+program prog
+
+	const int nula = 0;
+	int k;
+	
+{
+
+	void main()	
+		int bodovi;
+	{
+			
+		bodovi = 0;
+		bodovi++;
+		
+		print(bodovi);
+	}
+}
+
+

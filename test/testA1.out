@@ -1,0 +1,338 @@
+INFO  11:26:54,945 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\testA1.mj
+INFO  11:26:55,042 - #2 program
+INFO  11:26:55,042 - #43 tesA1
+INFO  11:26:55,043 - #11 const
+INFO  11:26:55,046 - #43 int
+INFO  11:26:55,046 - #43 nula
+INFO  11:26:55,048 - #12 =
+INFO  11:26:55,048 - #42 0
+INFO  11:26:55,049 - #3 ;
+INFO  11:26:55,051 - #11 const
+INFO  11:26:55,052 - #43 int
+INFO  11:26:55,052 - #43 jedan
+INFO  11:26:55,053 - #12 =
+INFO  11:26:55,053 - #42 1
+INFO  11:26:55,053 - #3 ;
+INFO  11:26:55,053 - #11 const
+INFO  11:26:55,054 - #43 int
+INFO  11:26:55,054 - #43 pet
+INFO  11:26:55,054 - #12 =
+INFO  11:26:55,055 - #42 5
+INFO  11:26:55,055 - #3 ;
+INFO  11:26:55,058 - #43 int
+INFO  11:26:55,059 - #43 niz
+INFO  11:26:55,059 - #5 [
+INFO  11:26:55,060 - #6 ]
+INFO  11:26:55,060 - #3 ;
+INFO  11:26:55,067 - #43 char
+INFO  11:26:55,068 - #43 nizch
+INFO  11:26:55,068 - #5 [
+INFO  11:26:55,069 - #6 ]
+INFO  11:26:55,069 - #3 ;
+INFO  11:26:55,069 - #43 int
+INFO  11:26:55,070 - #43 k
+INFO  11:26:55,070 - #3 ;
+INFO  11:26:55,071 - #43 int
+INFO  11:26:55,071 - #43 errSum
+INFO  11:26:55,071 - #3 ;
+INFO  11:26:55,072 - #7 {
+INFO  11:26:55,072 - #43 char
+INFO  11:26:55,074 - #43 incInput
+INFO  11:26:55,074 - #9 (
+INFO  11:26:55,075 - #10 )
+INFO  11:26:55,076 - #43 int
+INFO  11:26:55,077 - #43 i
+INFO  11:26:55,077 - #3 ;
+INFO  11:26:55,077 - #43 char
+INFO  11:26:55,078 - #43 j
+INFO  11:26:55,078 - #3 ;
+INFO  11:26:55,078 - #43 bool
+INFO  11:26:55,079 - #43 t
+INFO  11:26:55,079 - #3 ;
+INFO  11:26:55,079 - #7 {
+INFO  11:26:55,080 - #43 t
+INFO  11:26:55,080 - #12 =
+INFO  11:26:55,081 - #42 32
+INFO  11:26:55,082 - #3 ;
+INFO  11:26:55,083 - #24 print
+INFO  11:26:55,084 - #9 (
+INFO  11:26:55,084 - #45 false
+INFO  11:26:55,084 - #10 )
+INFO  11:26:55,084 - #3 ;
+INFO  11:26:55,084 - #23 read
+INFO  11:26:55,085 - #9 (
+INFO  11:26:55,085 - #43 j
+INFO  11:26:55,085 - #10 )
+INFO  11:26:55,086 - #3 ;
+INFO  11:26:55,086 - #23 read
+INFO  11:26:55,086 - #9 (
+INFO  11:26:55,086 - #43 i
+INFO  11:26:55,086 - #10 )
+INFO  11:26:55,086 - #3 ;
+INFO  11:26:55,087 - #24 print
+INFO  11:26:55,087 - #9 (
+INFO  11:26:55,087 - #43 i
+INFO  11:26:55,087 - #10 )
+INFO  11:26:55,087 - #3 ;
+INFO  11:26:55,088 - #43 i
+INFO  11:26:55,088 - #27 ++
+INFO  11:26:55,088 - #3 ;
+INFO  11:26:55,089 - #24 print
+INFO  11:26:55,089 - #9 (
+INFO  11:26:55,090 - #43 j
+INFO  11:26:55,090 - #10 )
+INFO  11:26:55,090 - #3 ;
+INFO  11:26:55,090 - #22 return
+INFO  11:26:55,090 - #43 j
+INFO  11:26:55,091 - #3 ;
+INFO  11:26:55,091 - #8 }
+INFO  11:26:55,092 - #13 void
+INFO  11:26:55,093 - #43 main
+INFO  11:26:55,094 - #9 (
+INFO  11:26:55,094 - #10 )
+INFO  11:26:55,094 - #43 int
+INFO  11:26:55,094 - #43 bodovi
+INFO  11:26:55,094 - #3 ;
+INFO  11:26:55,094 - #43 char
+INFO  11:26:55,094 - #43 chr
+INFO  11:26:55,095 - #3 ;
+INFO  11:26:55,095 - #7 {
+INFO  11:26:55,095 - #43 niz
+INFO  11:26:55,095 - #12 =
+INFO  11:26:55,095 - #42 6
+INFO  11:26:55,095 - #3 ;
+INFO  11:26:55,096 - #43 chr
+INFO  11:26:55,096 - #12 =
+INFO  11:26:55,096 - #44 b
+INFO  11:26:55,096 - #3 ;
+INFO  11:26:55,097 - #43 bodovi
+INFO  11:26:55,097 - #12 =
+INFO  11:26:55,097 - #42 0
+INFO  11:26:55,097 - #3 ;
+INFO  11:26:55,097 - #43 bodovi
+INFO  11:26:55,097 - #27 ++
+INFO  11:26:55,098 - #3 ;
+INFO  11:26:55,098 - #43 bodovi
+INFO  11:26:55,098 - #12 =
+INFO  11:26:55,098 - #43 bodovi
+INFO  11:26:55,098 - #38 +
+INFO  11:26:55,098 - #43 jedan
+INFO  11:26:55,100 - #3 ;
+INFO  11:26:55,101 - #43 bodovi
+INFO  11:26:55,101 - #12 =
+INFO  11:26:55,101 - #43 bodovi
+INFO  11:26:55,102 - #38 +
+INFO  11:26:55,102 - #43 chr
+INFO  11:26:55,102 - #3 ;
+INFO  11:26:55,102 - #43 niz
+INFO  11:26:55,103 - #12 =
+INFO  11:26:55,104 - #25 new
+INFO  11:26:55,104 - #43 int
+INFO  11:26:55,104 - #5 [
+INFO  11:26:55,104 - #42 3
+INFO  11:26:55,105 - #6 ]
+INFO  11:26:55,105 - #3 ;
+INFO  11:26:55,105 - #43 niz
+INFO  11:26:55,105 - #5 [
+INFO  11:26:55,106 - #43 nula
+INFO  11:26:55,106 - #6 ]
+INFO  11:26:55,106 - #12 =
+INFO  11:26:55,107 - #43 jedan
+INFO  11:26:55,107 - #3 ;
+INFO  11:26:55,108 - #43 niz
+INFO  11:26:55,108 - #5 [
+INFO  11:26:55,108 - #42 1
+INFO  11:26:55,109 - #6 ]
+INFO  11:26:55,109 - #12 =
+INFO  11:26:55,109 - #42 2
+INFO  11:26:55,109 - #3 ;
+INFO  11:26:55,110 - #43 niz
+INFO  11:26:55,110 - #5 [
+INFO  11:26:55,110 - #43 niz
+INFO  11:26:55,111 - #5 [
+INFO  11:26:55,111 - #43 jedan
+INFO  11:26:55,111 - #6 ]
+INFO  11:26:55,111 - #6 ]
+INFO  11:26:55,111 - #12 =
+INFO  11:26:55,112 - #43 niz
+INFO  11:26:55,112 - #5 [
+INFO  11:26:55,112 - #43 niz
+INFO  11:26:55,112 - #5 [
+INFO  11:26:55,112 - #42 0
+INFO  11:26:55,112 - #6 ]
+INFO  11:26:55,113 - #6 ]
+INFO  11:26:55,113 - #29 *
+INFO  11:26:55,113 - #42 3
+INFO  11:26:55,115 - #3 ;
+INFO  11:26:55,116 - #43 bodovi
+INFO  11:26:55,116 - #12 =
+INFO  11:26:55,116 - #43 niz
+INFO  11:26:55,116 - #5 [
+INFO  11:26:55,116 - #42 2
+INFO  11:26:55,117 - #6 ]
+INFO  11:26:55,117 - #30 /
+INFO  11:26:55,117 - #43 niz
+INFO  11:26:55,118 - #5 [
+INFO  11:26:55,119 - #42 1
+INFO  11:26:55,119 - #6 ]
+INFO  11:26:55,119 - #3 ;
+INFO  11:26:55,119 - #24 print
+INFO  11:26:55,119 - #9 (
+INFO  11:26:55,120 - #43 bodovi
+INFO  11:26:55,120 - #10 )
+INFO  11:26:55,120 - #3 ;
+INFO  11:26:55,120 - #24 print
+INFO  11:26:55,120 - #9 (
+INFO  11:26:55,121 - #43 niz
+INFO  11:26:55,121 - #5 [
+INFO  11:26:55,121 - #42 2
+INFO  11:26:55,121 - #6 ]
+INFO  11:26:55,121 - #10 )
+INFO  11:26:55,122 - #3 ;
+INFO  11:26:55,122 - #43 nizch
+INFO  11:26:55,122 - #12 =
+INFO  11:26:55,122 - #25 new
+INFO  11:26:55,122 - #43 char
+INFO  11:26:55,123 - #5 [
+INFO  11:26:55,124 - #42 3
+INFO  11:26:55,124 - #6 ]
+INFO  11:26:55,124 - #3 ;
+INFO  11:26:55,124 - #43 nizch
+INFO  11:26:55,124 - #5 [
+INFO  11:26:55,124 - #42 0
+INFO  11:26:55,124 - #6 ]
+INFO  11:26:55,125 - #12 =
+INFO  11:26:55,125 - #42 1
+INFO  11:26:55,125 - #3 ;
+INFO  11:26:55,125 - #43 nizch
+INFO  11:26:55,126 - #5 [
+INFO  11:26:55,126 - #43 chr
+INFO  11:26:55,126 - #6 ]
+INFO  11:26:55,126 - #12 =
+INFO  11:26:55,126 - #44 a
+INFO  11:26:55,126 - #3 ;
+INFO  11:26:55,126 - #43 nizch
+INFO  11:26:55,126 - #5 [
+INFO  11:26:55,126 - #43 jedan
+INFO  11:26:55,126 - #6 ]
+INFO  11:26:55,127 - #12 =
+INFO  11:26:55,127 - #44 b
+INFO  11:26:55,127 - #3 ;
+INFO  11:26:55,127 - #24 print
+INFO  11:26:55,128 - #9 (
+INFO  11:26:55,128 - #43 nizch
+INFO  11:26:55,128 - #5 [
+INFO  11:26:55,128 - #42 1
+INFO  11:26:55,128 - #6 ]
+INFO  11:26:55,128 - #10 )
+INFO  11:26:55,128 - #3 ;
+INFO  11:26:55,128 - #43 nizch
+INFO  11:26:55,128 - #5 [
+INFO  11:26:55,129 - #43 pet
+INFO  11:26:55,129 - #39 -
+INFO  11:26:55,129 - #42 3
+INFO  11:26:55,130 - #6 ]
+INFO  11:26:55,130 - #12 =
+INFO  11:26:55,130 - #44 c
+INFO  11:26:55,130 - #3 ;
+INFO  11:26:55,131 - #24 print
+INFO  11:26:55,131 - #9 (
+INFO  11:26:55,131 - #43 nizch
+INFO  11:26:55,131 - #5 [
+INFO  11:26:55,131 - #42 2
+INFO  11:26:55,131 - #6 ]
+INFO  11:26:55,132 - #10 )
+INFO  11:26:55,132 - #3 ;
+INFO  11:26:55,132 - #24 print
+INFO  11:26:55,132 - #9 (
+INFO  11:26:55,132 - #43 nizch
+INFO  11:26:55,132 - #5 [
+INFO  11:26:55,133 - #42 1
+INFO  11:26:55,133 - #6 ]
+INFO  11:26:55,133 - #10 )
+INFO  11:26:55,134 - #3 ;
+INFO  11:26:55,134 - #24 print
+INFO  11:26:55,134 - #9 (
+INFO  11:26:55,134 - #43 nizch
+INFO  11:26:55,134 - #5 [
+INFO  11:26:55,134 - #43 jedan
+INFO  11:26:55,134 - #29 *
+INFO  11:26:55,135 - #43 chr
+INFO  11:26:55,135 - #6 ]
+INFO  11:26:55,135 - #10 )
+INFO  11:26:55,135 - #3 ;
+INFO  11:26:55,136 - #43 errSum
+INFO  11:26:55,136 - #12 =
+INFO  11:26:55,136 - #42 1
+INFO  11:26:55,136 - #38 +
+INFO  11:26:55,136 - #43 nizch
+INFO  11:26:55,136 - #5 [
+INFO  11:26:55,136 - #42 0
+INFO  11:26:55,137 - #6 ]
+INFO  11:26:55,137 - #3 ;
+INFO  11:26:55,137 - #24 print
+INFO  11:26:55,137 - #9 (
+INFO  11:26:55,137 - #43 bodovi
+INFO  11:26:55,137 - #10 )
+INFO  11:26:55,137 - #3 ;
+INFO  11:26:55,137 - #43 bodovi
+INFO  11:26:55,137 - #12 =
+INFO  11:26:55,137 - #43 incInput
+INFO  11:26:55,138 - #9 (
+INFO  11:26:55,138 - #10 )
+INFO  11:26:55,139 - #3 ;
+INFO  11:26:55,139 - #8 }
+INFO  11:26:55,140 - #8 }
+INFO  11:26:55,162 - Deklarisana konstanta nula na liniji 3
+INFO  11:26:55,162 - Deklarisana konstanta jedan na liniji 4
+INFO  11:26:55,163 - Deklarisana konstanta pet na liniji 5
+INFO  11:26:55,163 - Deklarisan niz niz na liniji 7
+INFO  11:26:55,163 - Povratna vrednost deklarisane promenljive je int na liniji 7
+INFO  11:26:55,163 - Deklarisan niz nizch na liniji 8
+INFO  11:26:55,163 - Povratna vrednost deklarisane promenljive je char na liniji 8
+INFO  11:26:55,163 - Deklarisana promenljiva k na liniji 9
+INFO  11:26:55,163 - Povratna vrednost deklarisane promenljive je int na liniji 9
+INFO  11:26:55,163 - Deklarisana promenljiva errSum na liniji 10
+INFO  11:26:55,163 - Povratna vrednost deklarisane promenljive je int na liniji 10
+INFO  11:26:55,164 - Obradjuje se funkcija incInput na liniji 12
+INFO  11:26:55,164 - Deklarisana promenljiva i na liniji 13
+INFO  11:26:55,164 - Povratna vrednost deklarisane promenljive je int na liniji 13
+INFO  11:26:55,164 - Deklarisana promenljiva j na liniji 14
+INFO  11:26:55,165 - Povratna vrednost deklarisane promenljive je char na liniji 14
+INFO  11:26:55,165 - Deklarisana promenljiva t na liniji 15
+INFO  11:26:55,165 - Povratna vrednost deklarisane promenljive je bool na liniji 15
+ERROR 11:26:55,165 - Greska na liniji 17 : nekompatibilni tipovi u dodeli vrednosti! na liniji 17
+INFO  11:26:55,166 - Prepoznata naredba print
+INFO  11:26:55,167 - Prepoznata naredba print
+INFO  11:26:55,167 - Prepoznata naredba print
+INFO  11:26:55,167 - Obradjuje se void funkcija main na liniji 28
+INFO  11:26:55,167 - Deklarisana promenljiva bodovi na liniji 29
+INFO  11:26:55,167 - Povratna vrednost deklarisane promenljive je int na liniji 29
+INFO  11:26:55,167 - Deklarisana promenljiva chr na liniji 30
+INFO  11:26:55,167 - Povratna vrednost deklarisane promenljive je char na liniji 30
+ERROR 11:26:55,167 - Greska na liniji 40 : nekompatibilni tipovi u izrazu za sabiranje! na liniji 40
+ERROR 11:26:55,168 - Greska na liniji 40 : nekompatibilni tipovi u dodeli vrednosti! na liniji 40
+INFO  11:26:55,168 - New operator za niz! na liniji 42
+INFO  11:26:55,168 - Element niza deklarisan uz pomoc drugog elementa niza! na liniji 45
+INFO  11:26:55,168 - Element niza deklarisan uz pomoc drugog elementa niza! na liniji 45
+INFO  11:26:55,168 - Prepoznata naredba print
+INFO  11:26:55,168 - Prepoznata naredba print
+INFO  11:26:55,168 - New operator za niz! na liniji 50
+ERROR 11:26:55,168 - Greska na liniji 51 : nekompatibilni tipovi u dodeli vrednosti! na liniji 51
+ERROR 11:26:55,169 - Greska u liniji 53 : ocekivan je int kao tip izmedju []! na liniji 53
+ERROR 11:26:55,169 - Greska na liniji 53 : nekompatibilni tipovi u dodeli vrednosti! na liniji 53
+INFO  11:26:55,169 - Prepoznata naredba print
+INFO  11:26:55,169 - Prepoznata naredba print
+INFO  11:26:55,169 - Prepoznata naredba print
+ERROR 11:26:55,169 - Greska na liniji 60 : nekompatibilni tipovi u izrazu za mnozenje! na liniji 60
+ERROR 11:26:55,170 - Greska u liniji 60 : ocekivan je int kao tip izmedju []! na liniji 60
+ERROR 11:26:55,172 - Greska na liniji 60 : Operand instrukcije print mora biti tipa char, int ili bool! na liniji 60
+INFO  11:26:55,172 - Prepoznata naredba print
+ERROR 11:26:55,172 - Greska na liniji 63 : nekompatibilni tipovi u izrazu za sabiranje! na liniji 63
+ERROR 11:26:55,173 - Greska na liniji 63 : nekompatibilni tipovi u dodeli vrednosti! na liniji 63
+INFO  11:26:55,173 - Prepoznata naredba print
+INFO  11:26:55,173 - Pronadjen poziv procedure incInput na liniji 67
+ERROR 11:26:55,173 - Greska na liniji 67 : nekompatibilni tipovi u dodeli vrednosti! na liniji 67
+INFO  11:26:55,173 - Nadjena main metoda
+INFO  11:26:55,173 - Print calls = 10
+ERROR 11:26:55,175 - Parsiranje NIJE uspesno zavrseno!

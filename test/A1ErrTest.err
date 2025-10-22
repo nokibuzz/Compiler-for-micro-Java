@@ -1,0 +1,14 @@
+ERROR 01:11:14,681 - 
+Sintaksna greska na liniji 4
+ERROR 01:11:14,682 - Izvrsen oporavak do ; na liniji 4
+ERROR 01:11:14,748 - 
+Sintaksna greska na liniji 5
+ERROR 01:11:14,756 - Izvrsen oporavak do ; na liniji 5
+ERROR 01:11:14,759 - 
+Sintaksna greska na liniji 7
+ERROR 01:11:14,761 - Izvrsen oporavak do ; na liniji 7
+ERROR 01:11:14,788 - Greska na liniji 15 : ime err1 nije deklarisano na liniji 15
+ERROR 01:11:14,788 - Greska na liniji 15 : nekompatibilni tipovi u dodeli vrednosti! na liniji 15
+ERROR 01:11:14,789 - Greska na liniji 21 : ime err2 nije deklarisano na liniji 21
+ERROR 01:11:14,789 - Greska na liniji 21 : nekompatibilni tipovi u dodeli vrednosti! na liniji 21
+ERROR 01:11:14,789 - Parsiranje NIJE uspesno zavrseno!

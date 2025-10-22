@@ -1,0 +1,47 @@
+INFO  01:58:06,758 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\B1ErrTest.mj
+INFO  01:58:06,789 - #2 program
+INFO  01:58:06,789 - #43 B1ErrTest
+INFO  01:58:06,789 - #43 int
+INFO  01:58:06,789 - #43 a
+INFO  01:58:06,789 - #4 ,
+INFO  01:58:06,789 - #43 b
+INFO  01:58:06,789 - #3 ;
+INFO  01:58:06,805 - #7 {
+INFO  01:58:06,805 - #13 void
+INFO  01:58:06,805 - #43 method
+INFO  01:58:06,805 - #9 (
+INFO  01:58:06,805 - #43 int
+INFO  01:58:06,805 - #43 c
+INFO  01:58:06,805 - #4 ,
+INFO  01:58:06,805 - #43 int
+INFO  01:58:06,805 - #43 err
+INFO  01:58:06,805 - #6 ]
+ERROR 01:58:06,805 - 
+Sintaksna greska na liniji 6
+INFO  01:58:06,805 - #10 )
+INFO  01:58:06,805 - #7 {
+INFO  01:58:06,805 - #43 c
+INFO  01:58:06,805 - #38 +
+ERROR 01:58:06,805 - Izvrsen oporavak do ; na liniji 6
+ERROR 01:58:06,805 - 
+Sintaksna greska na liniji 7
+INFO  01:58:06,805 - #43 err
+INFO  01:58:06,805 - #3 ;
+INFO  01:58:06,805 - #8 }
+INFO  01:58:06,805 - #13 void
+INFO  01:58:06,805 - #43 main
+ERROR 01:58:06,805 - Izvrsen oporavak na liniji 6
+INFO  01:58:06,805 - #9 (
+INFO  01:58:06,805 - #10 )
+INFO  01:58:06,805 - #7 {
+INFO  01:58:06,805 - #8 }
+INFO  01:58:06,805 - #8 }
+INFO  01:58:06,820 - Deklarisana promenljiva a na liniji 3
+INFO  01:58:06,820 - Deklarisana promenljiva b na liniji 3
+INFO  01:58:06,820 - Povratna vrednost deklarisane promenljive je int na liniji 3
+INFO  01:58:06,820 - Obradjuje se void funkcija method na liniji 6
+INFO  01:58:06,820 - Deklarisana promenjiva kao parametar : c tipa : int na liniji 6
+INFO  01:58:06,820 - Obradjuje se void funkcija main na liniji 10
+INFO  01:58:06,820 - Nadjena main metoda
+INFO  01:58:06,820 - Print calls = 0
+ERROR 01:58:06,820 - Parsiranje NIJE uspesno zavrseno!

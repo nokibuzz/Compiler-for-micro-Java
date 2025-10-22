@@ -1,0 +1,104 @@
+INFO  01:19:51,890 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\testA1e.mj
+INFO  01:19:51,935 - #2 program
+INFO  01:19:51,935 - #43 testA1e
+INFO  01:19:51,935 - #43 int
+INFO  01:19:51,936 - #43 a
+INFO  01:19:51,936 - #4 ,
+INFO  01:19:51,936 - #43 b
+INFO  01:19:51,936 - #3 ;
+INFO  01:19:51,937 - #43 int
+INFO  01:19:51,937 - #43 err
+INFO  01:19:51,937 - #12 =
+ERROR 01:19:51,937 - 
+Sintaksna greska na liniji 4
+INFO  01:19:51,938 - #42 6
+INFO  01:19:51,938 - #3 ;
+INFO  01:19:51,938 - #43 int
+INFO  01:19:51,938 - #43 c
+INFO  01:19:51,938 - #4 ,
+ERROR 01:19:51,938 - Izvrsen oporavak do ; na liniji 4
+INFO  01:19:51,939 - #43 err1
+INFO  01:19:51,939 - #12 =
+ERROR 01:19:51,939 - 
+Sintaksna greska na liniji 5
+INFO  01:19:51,939 - #42 1
+INFO  01:19:51,939 - #3 ;
+INFO  01:19:51,942 - #43 char
+INFO  01:19:51,942 - #43 x
+INFO  01:19:51,942 - #4 ,
+ERROR 01:19:51,942 - Izvrsen oporavak do ; na liniji 5
+INFO  01:19:51,942 - #43 y
+INFO  01:19:51,942 - #3 ;
+INFO  01:19:51,942 - #43 char
+INFO  01:19:51,942 - #43 z
+INFO  01:19:51,942 - #4 ,
+INFO  01:19:51,942 - #43 err2
+INFO  01:19:51,942 - #12 =
+ERROR 01:19:51,942 - 
+Sintaksna greska na liniji 7
+INFO  01:19:51,942 - #44 c
+INFO  01:19:51,942 - #3 ;
+INFO  01:19:51,942 - #7 {
+INFO  01:19:51,942 - #13 void
+INFO  01:19:51,942 - #43 main
+ERROR 01:19:51,943 - Izvrsen oporavak do ; na liniji 7
+INFO  01:19:51,943 - #9 (
+INFO  01:19:51,943 - #10 )
+INFO  01:19:51,944 - #7 {
+INFO  01:19:51,944 - #43 a
+INFO  01:19:51,944 - #12 =
+INFO  01:19:51,945 - #42 1
+INFO  01:19:51,945 - #3 ;
+INFO  01:19:51,946 - #43 b
+INFO  01:19:51,946 - #12 =
+INFO  01:19:51,946 - #42 2
+INFO  01:19:51,947 - #3 ;
+INFO  01:19:51,947 - #43 c
+INFO  01:19:51,947 - #12 =
+INFO  01:19:51,947 - #43 a
+INFO  01:19:51,947 - #38 +
+INFO  01:19:51,947 - #43 b
+INFO  01:19:51,948 - #3 ;
+INFO  01:19:51,948 - #43 err1
+INFO  01:19:51,948 - #12 =
+INFO  01:19:51,948 - #42 5
+INFO  01:19:51,948 - #3 ;
+INFO  01:19:51,948 - #43 x
+INFO  01:19:51,948 - #12 =
+INFO  01:19:51,948 - #44 a
+INFO  01:19:51,949 - #3 ;
+INFO  01:19:51,949 - #43 y
+INFO  01:19:51,949 - #12 =
+INFO  01:19:51,949 - #44 b
+INFO  01:19:51,949 - #3 ;
+INFO  01:19:51,949 - #43 z
+INFO  01:19:51,949 - #12 =
+INFO  01:19:51,949 - #44 c
+INFO  01:19:51,949 - #3 ;
+INFO  01:19:51,949 - #43 err2
+INFO  01:19:51,949 - #12 =
+INFO  01:19:51,949 - #44 d
+INFO  01:19:51,949 - #3 ;
+INFO  01:19:51,950 - #22 return
+INFO  01:19:51,950 - #3 ;
+INFO  01:19:51,950 - #8 }
+INFO  01:19:51,950 - #8 }
+INFO  01:19:51,962 - Deklarisana promenljiva a na liniji 3
+INFO  01:19:51,962 - Deklarisana promenljiva b na liniji 3
+INFO  01:19:51,962 - Povratna vrednost deklarisane promenljive je int na liniji 3
+INFO  01:19:51,962 - Povratna vrednost deklarisane promenljive je int na liniji 4
+INFO  01:19:51,962 - Deklarisana promenljiva c na liniji 5
+INFO  01:19:51,962 - Povratna vrednost deklarisane promenljive je int na liniji 5
+INFO  01:19:51,962 - Deklarisana promenljiva x na liniji 6
+INFO  01:19:51,962 - Deklarisana promenljiva y na liniji 6
+INFO  01:19:51,962 - Povratna vrednost deklarisane promenljive je char na liniji 6
+INFO  01:19:51,962 - Deklarisana promenljiva z na liniji 7
+INFO  01:19:51,962 - Povratna vrednost deklarisane promenljive je char na liniji 7
+INFO  01:19:51,962 - Obradjuje se void funkcija main na liniji 9
+ERROR 01:19:51,962 - Greska na liniji 15 : ime err1 nije deklarisano na liniji 15
+ERROR 01:19:51,962 - Greska na liniji 15 : nekompatibilni tipovi u dodeli vrednosti! na liniji 15
+ERROR 01:19:51,962 - Greska na liniji 21 : ime err2 nije deklarisano na liniji 21
+ERROR 01:19:51,963 - Greska na liniji 21 : nekompatibilni tipovi u dodeli vrednosti! na liniji 21
+INFO  01:19:51,963 - Nadjena main metoda
+INFO  01:19:51,963 - Print calls = 0
+ERROR 01:19:51,963 - Parsiranje NIJE uspesno zavrseno!

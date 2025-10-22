@@ -1,0 +1,54 @@
+program OKTest1
+
+	int niz[];
+	char nizch[];
+	int bodovi;
+{
+
+	char chrPrint() 
+		char c;
+	{
+		read(c);
+		return c;
+	}
+
+	void incInput()
+		int i;
+	{
+		read(i);
+		i++;
+		bodovi = bodovi + 10 * bodovi - (3 % 2 + 3 * 2 - 3); // 40
+		bodovi = bodovi + i;
+	}
+
+	void main()	
+		int sum;
+		char ca;
+	{
+		bodovi = 0;
+		bodovi++;
+		bodovi = bodovi + 2;
+		bodovi = bodovi * 3;
+		bodovi--;
+		print(bodovi); 
+			
+		print(1111);	
+		print(2, 2);
+		
+		niz = new int[3];
+		niz[0] = 1;
+		niz[1] = 1;
+		niz[2] = 3;
+		bodovi = niz[2]*niz[niz[0]] + niz[niz[niz[1]]]; // 4
+		
+		ca = chrPrint();
+		
+		print(ca);
+			
+		incInput();
+		
+		print(bodovi);
+	}
+}
+
+

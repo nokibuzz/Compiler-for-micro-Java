@@ -1,0 +1,12 @@
+program testA2e
+
+	int a, b;
+	int err1;
+{
+	void main()	{
+		
+		a = 6;
+		b = 7;
+		err1 >= 8;
+	}
+}

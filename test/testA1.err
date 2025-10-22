@@ -1,0 +1,13 @@
+ERROR 11:26:55,165 - Greska na liniji 17 : nekompatibilni tipovi u dodeli vrednosti! na liniji 17
+ERROR 11:26:55,167 - Greska na liniji 40 : nekompatibilni tipovi u izrazu za sabiranje! na liniji 40
+ERROR 11:26:55,168 - Greska na liniji 40 : nekompatibilni tipovi u dodeli vrednosti! na liniji 40
+ERROR 11:26:55,168 - Greska na liniji 51 : nekompatibilni tipovi u dodeli vrednosti! na liniji 51
+ERROR 11:26:55,169 - Greska u liniji 53 : ocekivan je int kao tip izmedju []! na liniji 53
+ERROR 11:26:55,169 - Greska na liniji 53 : nekompatibilni tipovi u dodeli vrednosti! na liniji 53
+ERROR 11:26:55,169 - Greska na liniji 60 : nekompatibilni tipovi u izrazu za mnozenje! na liniji 60
+ERROR 11:26:55,170 - Greska u liniji 60 : ocekivan je int kao tip izmedju []! na liniji 60
+ERROR 11:26:55,172 - Greska na liniji 60 : Operand instrukcije print mora biti tipa char, int ili bool! na liniji 60
+ERROR 11:26:55,172 - Greska na liniji 63 : nekompatibilni tipovi u izrazu za sabiranje! na liniji 63
+ERROR 11:26:55,173 - Greska na liniji 63 : nekompatibilni tipovi u dodeli vrednosti! na liniji 63
+ERROR 11:26:55,173 - Greska na liniji 67 : nekompatibilni tipovi u dodeli vrednosti! na liniji 67
+ERROR 11:26:55,175 - Parsiranje NIJE uspesno zavrseno!

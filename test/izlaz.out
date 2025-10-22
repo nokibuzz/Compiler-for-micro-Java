@@ -1,0 +1,46 @@
+INFO  23:43:58,974 - Compiling source file: C:\Users\Petar\Desktop\PP - februar\MJCompiler\test\program.mj
+INFO  23:43:59,003 - #2 program
+INFO  23:43:59,003 - #43 prog
+INFO  23:43:59,003 - #11 const
+INFO  23:43:59,004 - #43 int
+INFO  23:43:59,004 - #43 nula
+INFO  23:43:59,004 - #12 =
+INFO  23:43:59,004 - #42 0
+INFO  23:43:59,004 - #3 ;
+INFO  23:43:59,005 - #43 int
+INFO  23:43:59,005 - #43 k
+INFO  23:43:59,005 - #3 ;
+INFO  23:43:59,006 - #7 {
+INFO  23:43:59,006 - #13 void
+INFO  23:43:59,006 - #43 main
+INFO  23:43:59,006 - #9 (
+INFO  23:43:59,007 - #10 )
+INFO  23:43:59,007 - #43 int
+INFO  23:43:59,007 - #43 bodovi
+INFO  23:43:59,007 - #3 ;
+INFO  23:43:59,007 - #7 {
+INFO  23:43:59,007 - #43 bodovi
+INFO  23:43:59,007 - #12 =
+INFO  23:43:59,008 - #42 0
+INFO  23:43:59,010 - #3 ;
+INFO  23:43:59,011 - #43 bodovi
+INFO  23:43:59,011 - #27 ++
+INFO  23:43:59,011 - #3 ;
+INFO  23:43:59,011 - #24 print
+INFO  23:43:59,011 - #9 (
+INFO  23:43:59,011 - #43 bodovi
+INFO  23:43:59,011 - #10 )
+INFO  23:43:59,012 - #3 ;
+INFO  23:43:59,012 - #8 }
+INFO  23:43:59,012 - #8 }
+INFO  23:43:59,020 - Deklarisana konstanta nula na liniji 3
+INFO  23:43:59,021 - Deklarisana promenljiva k na liniji 4
+INFO  23:43:59,021 - Povratna vrednost deklarisane promenljive je int na liniji 4
+INFO  23:43:59,021 - Obradjuje se void funkcija main na liniji 8
+INFO  23:43:59,021 - Deklarisana promenljiva bodovi na liniji 9
+INFO  23:43:59,021 - Povratna vrednost deklarisane promenljive je int na liniji 9
+INFO  23:43:59,021 - Prepoznata naredba print
+INFO  23:43:59,021 - Nadjena main metoda na liniji 8
+INFO  23:43:59,021 - Print calls = 1
+INFO  23:43:59,022 - Generating bytecode file: C:\Users\Petar\Desktop\PP - februar\MJCompiler\test\program.obj
+INFO  23:43:59,028 - Parsiranje uspesno zavrseno!

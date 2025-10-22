@@ -1,0 +1,46 @@
+program tesA2
+
+	const int nula = 0;
+	const int jedan = 1;
+	const int pet = 5;
+
+	int niz[];
+	char nizch[];
+	int k;
+	
+{
+	void incInput()
+	int i;
+	char j;
+	{
+		print(false);
+		read(j);
+		read(i);
+		print(i);
+		i++;
+		print(j);
+		
+		print(i);
+		
+		return i;
+	}
+
+	void main()	
+		int bodovi;
+		int i;
+	{
+		bodovi = 0;
+		bodovi++;
+		
+		if ('a' > bodovi) {
+			bodovi++;
+		}
+				
+		for(i = 0; i + 3; i+) {}
+
+			
+		i = incInput();
+	}
+}
+
+

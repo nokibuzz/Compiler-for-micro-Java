@@ -1,0 +1,8 @@
+ERROR 11:23:36,739 - 
+Sintaksna greska na liniji 39
+ERROR 11:23:36,741 - Izvrsen oporavak na liniji 39
+ERROR 11:23:36,764 - Greska na liniji 25 : tip izraza u return naredbi se ne slaze sa tipom povratne vrednost metode incInput
+ERROR 11:23:36,766 - Greska na liniji 35 : Nekompatibilni izrazi u uslovnoj dodeli! na liniji 35
+ERROR 11:23:36,766 - Greska! incInput se ne moze koristiti u izrazima jer nema povratnu vrednost! na liniji 42
+ERROR 11:23:36,766 - Greska na liniji 42 : nekompatibilni tipovi u dodeli vrednosti! na liniji 42
+ERROR 11:23:36,768 - Parsiranje NIJE uspesno zavrseno!

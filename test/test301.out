@@ -1,0 +1,275 @@
+INFO  11:36:40,549 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  11:36:40,645 - #2 program
+INFO  11:36:40,645 - #43 test301
+INFO  11:36:40,645 - #11 const
+INFO  11:36:40,647 - #43 int
+INFO  11:36:40,647 - #43 nula
+INFO  11:36:40,649 - #12 =
+INFO  11:36:40,649 - #42 0
+INFO  11:36:40,649 - #3 ;
+INFO  11:36:40,651 - #11 const
+INFO  11:36:40,652 - #43 int
+INFO  11:36:40,653 - #43 jedan
+INFO  11:36:40,653 - #12 =
+INFO  11:36:40,653 - #42 1
+INFO  11:36:40,653 - #3 ;
+INFO  11:36:40,653 - #11 const
+INFO  11:36:40,653 - #43 int
+INFO  11:36:40,654 - #43 pet
+INFO  11:36:40,654 - #12 =
+INFO  11:36:40,654 - #42 5
+INFO  11:36:40,654 - #3 ;
+INFO  11:36:40,657 - #43 int
+INFO  11:36:40,658 - #43 niz
+INFO  11:36:40,658 - #5 [
+INFO  11:36:40,661 - #6 ]
+INFO  11:36:40,661 - #3 ;
+INFO  11:36:40,666 - #43 char
+INFO  11:36:40,667 - #43 nizch
+INFO  11:36:40,667 - #5 [
+INFO  11:36:40,668 - #6 ]
+INFO  11:36:40,668 - #3 ;
+INFO  11:36:40,668 - #7 {
+INFO  11:36:40,668 - #13 void
+INFO  11:36:40,669 - #43 incInput
+INFO  11:36:40,669 - #9 (
+INFO  11:36:40,670 - #10 )
+INFO  11:36:40,670 - #43 int
+INFO  11:36:40,671 - #43 i
+INFO  11:36:40,671 - #3 ;
+INFO  11:36:40,671 - #7 {
+INFO  11:36:40,671 - #23 read
+INFO  11:36:40,672 - #9 (
+INFO  11:36:40,672 - #43 i
+INFO  11:36:40,672 - #10 )
+INFO  11:36:40,673 - #3 ;
+INFO  11:36:40,673 - #24 print
+INFO  11:36:40,675 - #9 (
+INFO  11:36:40,675 - #43 i
+INFO  11:36:40,675 - #10 )
+INFO  11:36:40,676 - #3 ;
+INFO  11:36:40,676 - #43 i
+INFO  11:36:40,677 - #27 ++
+INFO  11:36:40,677 - #3 ;
+INFO  11:36:40,678 - #24 print
+INFO  11:36:40,678 - #9 (
+INFO  11:36:40,678 - #43 i
+INFO  11:36:40,678 - #10 )
+INFO  11:36:40,679 - #3 ;
+INFO  11:36:40,679 - #8 }
+INFO  11:36:40,679 - #13 void
+INFO  11:36:40,681 - #43 main
+INFO  11:36:40,681 - #9 (
+INFO  11:36:40,681 - #10 )
+INFO  11:36:40,681 - #43 int
+INFO  11:36:40,681 - #43 bodovi
+INFO  11:36:40,681 - #3 ;
+INFO  11:36:40,681 - #7 {
+INFO  11:36:40,682 - #43 bodovi
+INFO  11:36:40,682 - #12 =
+INFO  11:36:40,682 - #42 0
+INFO  11:36:40,683 - #3 ;
+INFO  11:36:40,683 - #43 bodovi
+INFO  11:36:40,683 - #27 ++
+INFO  11:36:40,683 - #3 ;
+INFO  11:36:40,684 - #43 bodovi
+INFO  11:36:40,684 - #12 =
+INFO  11:36:40,684 - #43 bodovi
+INFO  11:36:40,684 - #38 +
+INFO  11:36:40,684 - #43 jedan
+INFO  11:36:40,686 - #3 ;
+INFO  11:36:40,687 - #43 bodovi
+INFO  11:36:40,687 - #12 =
+INFO  11:36:40,687 - #43 bodovi
+INFO  11:36:40,687 - #29 *
+INFO  11:36:40,687 - #43 pet
+INFO  11:36:40,689 - #3 ;
+INFO  11:36:40,689 - #43 bodovi
+INFO  11:36:40,689 - #28 --
+INFO  11:36:40,689 - #3 ;
+INFO  11:36:40,690 - #24 print
+INFO  11:36:40,690 - #9 (
+INFO  11:36:40,690 - #43 bodovi
+INFO  11:36:40,690 - #10 )
+INFO  11:36:40,690 - #3 ;
+INFO  11:36:40,690 - #43 niz
+INFO  11:36:40,691 - #12 =
+INFO  11:36:40,691 - #25 new
+INFO  11:36:40,691 - #43 int
+INFO  11:36:40,691 - #5 [
+INFO  11:36:40,691 - #42 3
+INFO  11:36:40,691 - #6 ]
+INFO  11:36:40,691 - #3 ;
+INFO  11:36:40,692 - #43 niz
+INFO  11:36:40,692 - #5 [
+INFO  11:36:40,692 - #43 nula
+INFO  11:36:40,693 - #6 ]
+INFO  11:36:40,693 - #12 =
+INFO  11:36:40,693 - #43 jedan
+INFO  11:36:40,693 - #3 ;
+INFO  11:36:40,693 - #43 niz
+INFO  11:36:40,693 - #5 [
+INFO  11:36:40,693 - #42 1
+INFO  11:36:40,694 - #6 ]
+INFO  11:36:40,694 - #12 =
+INFO  11:36:40,694 - #42 2
+INFO  11:36:40,694 - #3 ;
+INFO  11:36:40,694 - #43 niz
+INFO  11:36:40,694 - #5 [
+INFO  11:36:40,694 - #43 niz
+INFO  11:36:40,694 - #5 [
+INFO  11:36:40,695 - #43 jedan
+INFO  11:36:40,695 - #6 ]
+INFO  11:36:40,695 - #6 ]
+INFO  11:36:40,695 - #12 =
+INFO  11:36:40,695 - #43 niz
+INFO  11:36:40,695 - #5 [
+INFO  11:36:40,695 - #43 niz
+INFO  11:36:40,695 - #5 [
+INFO  11:36:40,696 - #42 0
+INFO  11:36:40,696 - #6 ]
+INFO  11:36:40,696 - #6 ]
+INFO  11:36:40,696 - #29 *
+INFO  11:36:40,696 - #42 3
+INFO  11:36:40,696 - #3 ;
+INFO  11:36:40,697 - #43 bodovi
+INFO  11:36:40,697 - #12 =
+INFO  11:36:40,697 - #43 niz
+INFO  11:36:40,697 - #5 [
+INFO  11:36:40,697 - #42 2
+INFO  11:36:40,697 - #6 ]
+INFO  11:36:40,697 - #30 /
+INFO  11:36:40,697 - #43 niz
+INFO  11:36:40,698 - #5 [
+INFO  11:36:40,699 - #42 0
+INFO  11:36:40,699 - #6 ]
+INFO  11:36:40,699 - #3 ;
+INFO  11:36:40,699 - #24 print
+INFO  11:36:40,699 - #9 (
+INFO  11:36:40,699 - #43 bodovi
+INFO  11:36:40,699 - #10 )
+INFO  11:36:40,699 - #3 ;
+INFO  11:36:40,700 - #24 print
+INFO  11:36:40,700 - #9 (
+INFO  11:36:40,700 - #43 niz
+INFO  11:36:40,700 - #5 [
+INFO  11:36:40,700 - #42 2
+INFO  11:36:40,700 - #6 ]
+INFO  11:36:40,700 - #10 )
+INFO  11:36:40,700 - #3 ;
+INFO  11:36:40,700 - #43 nizch
+INFO  11:36:40,701 - #12 =
+INFO  11:36:40,701 - #25 new
+INFO  11:36:40,701 - #43 char
+INFO  11:36:40,701 - #5 [
+INFO  11:36:40,701 - #42 3
+INFO  11:36:40,701 - #6 ]
+INFO  11:36:40,701 - #3 ;
+INFO  11:36:40,701 - #43 nizch
+INFO  11:36:40,702 - #5 [
+INFO  11:36:40,702 - #42 0
+INFO  11:36:40,702 - #6 ]
+INFO  11:36:40,702 - #12 =
+INFO  11:36:40,703 - #44 a
+INFO  11:36:40,703 - #3 ;
+INFO  11:36:40,703 - #43 nizch
+INFO  11:36:40,703 - #5 [
+INFO  11:36:40,703 - #43 jedan
+INFO  11:36:40,703 - #6 ]
+INFO  11:36:40,704 - #12 =
+INFO  11:36:40,704 - #44 b
+INFO  11:36:40,704 - #3 ;
+INFO  11:36:40,704 - #43 nizch
+INFO  11:36:40,704 - #5 [
+INFO  11:36:40,704 - #43 pet
+INFO  11:36:40,704 - #39 -
+INFO  11:36:40,704 - #42 3
+INFO  11:36:40,705 - #6 ]
+INFO  11:36:40,705 - #12 =
+INFO  11:36:40,705 - #44 c
+INFO  11:36:40,706 - #3 ;
+INFO  11:36:40,706 - #24 print
+INFO  11:36:40,706 - #9 (
+INFO  11:36:40,706 - #43 nizch
+INFO  11:36:40,706 - #5 [
+INFO  11:36:40,706 - #42 1
+INFO  11:36:40,706 - #6 ]
+INFO  11:36:40,706 - #10 )
+INFO  11:36:40,706 - #3 ;
+INFO  11:36:40,707 - #24 print
+INFO  11:36:40,707 - #9 (
+INFO  11:36:40,707 - #43 nizch
+INFO  11:36:40,707 - #5 [
+INFO  11:36:40,707 - #43 jedan
+INFO  11:36:40,707 - #29 *
+INFO  11:36:40,707 - #42 2
+INFO  11:36:40,707 - #6 ]
+INFO  11:36:40,707 - #10 )
+INFO  11:36:40,707 - #3 ;
+INFO  11:36:40,707 - #43 bodovi
+INFO  11:36:40,707 - #12 =
+INFO  11:36:40,708 - #43 bodovi
+INFO  11:36:40,708 - #38 +
+INFO  11:36:40,708 - #9 (
+INFO  11:36:40,709 - #43 pet
+INFO  11:36:40,709 - #29 *
+INFO  11:36:40,709 - #43 jedan
+INFO  11:36:40,709 - #39 -
+INFO  11:36:40,709 - #42 1
+INFO  11:36:40,709 - #10 )
+INFO  11:36:40,709 - #29 *
+INFO  11:36:40,709 - #43 bodovi
+INFO  11:36:40,709 - #39 -
+INFO  11:36:40,710 - #9 (
+INFO  11:36:40,710 - #42 3
+INFO  11:36:40,710 - #31 %
+INFO  11:36:40,710 - #42 2
+INFO  11:36:40,710 - #38 +
+INFO  11:36:40,710 - #42 3
+INFO  11:36:40,710 - #29 *
+INFO  11:36:40,711 - #42 2
+INFO  11:36:40,711 - #39 -
+INFO  11:36:40,711 - #42 3
+INFO  11:36:40,711 - #10 )
+INFO  11:36:40,711 - #3 ;
+INFO  11:36:40,711 - #24 print
+INFO  11:36:40,711 - #9 (
+INFO  11:36:40,711 - #43 bodovi
+INFO  11:36:40,711 - #10 )
+INFO  11:36:40,711 - #3 ;
+INFO  11:36:40,711 - #43 incInput
+INFO  11:36:40,711 - #9 (
+INFO  11:36:40,711 - #10 )
+INFO  11:36:40,712 - #3 ;
+INFO  11:36:40,712 - #8 }
+INFO  11:36:40,712 - #8 }
+INFO  11:36:40,729 - Deklarisana konstanta nula na liniji 5
+INFO  11:36:40,729 - Deklarisana konstanta jedan na liniji 6
+INFO  11:36:40,735 - Deklarisana konstanta pet na liniji 7
+INFO  11:36:40,735 - Deklarisan niz niz na liniji 9
+INFO  11:36:40,735 - Povratna vrednost deklarisane promenljive je int na liniji 9
+INFO  11:36:40,735 - Deklarisan niz nizch na liniji 10
+INFO  11:36:40,735 - Povratna vrednost deklarisane promenljive je char na liniji 10
+INFO  11:36:40,735 - Obradjuje se void funkcija incInput na liniji 13
+INFO  11:36:40,736 - Deklarisana promenljiva i na liniji 14
+INFO  11:36:40,736 - Povratna vrednost deklarisane promenljive je int na liniji 14
+INFO  11:36:40,737 - Prepoznata naredba print
+INFO  11:36:40,737 - Prepoznata naredba print
+INFO  11:36:40,738 - Obradjuje se void funkcija main na liniji 22
+INFO  11:36:40,738 - Deklarisana promenljiva bodovi na liniji 23
+INFO  11:36:40,738 - Povratna vrednost deklarisane promenljive je int na liniji 23
+INFO  11:36:40,738 - Prepoznata naredba print
+INFO  11:36:40,738 - New operator za niz! na liniji 33
+INFO  11:36:40,739 - Element niza deklarisan uz pomoc drugog elementa niza! na liniji 36
+INFO  11:36:40,739 - Element niza deklarisan uz pomoc drugog elementa niza! na liniji 36
+INFO  11:36:40,739 - Prepoznata naredba print
+INFO  11:36:40,739 - Prepoznata naredba print
+INFO  11:36:40,739 - New operator za niz! na liniji 42
+INFO  11:36:40,739 - Prepoznata naredba print
+INFO  11:36:40,739 - Prepoznata naredba print
+INFO  11:36:40,739 - Prepoznata naredba print
+INFO  11:36:40,739 - Pronadjen poziv metode incInput na liniji 53 na liniji 53
+INFO  11:36:40,739 - Nadjena main metoda
+INFO  11:36:40,739 - Print calls = 8
+INFO  11:36:40,741 - Generating bytecode file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\test301.obj
+INFO  11:36:40,760 - Parsiranje uspesno zavrseno!

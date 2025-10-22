@@ -1,0 +1,11 @@
+program B2ErrTest
+
+	int i;
+	
+{
+	void main()	{
+		for (i = 0; i+ - 6;) 
+			i++;
+		
+	}
+}

@@ -1,0 +1,38 @@
+INFO  02:07:40,885 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\B2ErrTest.mj
+INFO  02:07:40,916 - #2 program
+INFO  02:07:40,916 - #43 B2ErrTest
+INFO  02:07:40,916 - #43 int
+INFO  02:07:40,916 - #43 i
+INFO  02:07:40,916 - #3 ;
+INFO  02:07:40,916 - #7 {
+INFO  02:07:40,916 - #13 void
+INFO  02:07:40,916 - #43 main
+INFO  02:07:40,916 - #9 (
+INFO  02:07:40,916 - #10 )
+INFO  02:07:40,916 - #7 {
+INFO  02:07:40,916 - #19 for
+INFO  02:07:40,916 - #9 (
+INFO  02:07:40,916 - #43 i
+INFO  02:07:40,916 - #12 =
+INFO  02:07:40,916 - #42 0
+INFO  02:07:40,916 - #3 ;
+INFO  02:07:40,916 - #43 i
+INFO  02:07:40,916 - #38 +
+INFO  02:07:40,916 - #39 -
+ERROR 02:07:40,916 - 
+Sintaksna greska na liniji 7
+INFO  02:07:40,996 - #42 6
+INFO  02:07:40,996 - #3 ;
+INFO  02:07:40,996 - #10 )
+INFO  02:07:40,996 - #43 i
+INFO  02:07:40,996 - #27 ++
+ERROR 02:07:40,996 - Izvrsen oporavak na liniji 7
+INFO  02:07:40,996 - #3 ;
+INFO  02:07:40,996 - #8 }
+INFO  02:07:40,996 - #8 }
+INFO  02:07:41,027 - Deklarisana promenljiva i na liniji 3
+INFO  02:07:41,027 - Povratna vrednost deklarisane promenljive je int na liniji 3
+INFO  02:07:41,027 - Obradjuje se void funkcija main na liniji 6
+INFO  02:07:41,027 - Nadjena main metoda
+INFO  02:07:41,027 - Print calls = 0
+ERROR 02:07:41,027 - Parsiranje NIJE uspesno zavrseno!

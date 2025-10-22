@@ -1,0 +1,168 @@
+INFO  11:23:36,593 - Compiling source file: C:\Users\Petar\Desktop\np150264d - pp\pp1lab.templateAST\workspace\MJCompiler\test\testA2.mj
+INFO  11:23:36,688 - #2 program
+INFO  11:23:36,688 - #43 tesA2
+INFO  11:23:36,688 - #11 const
+INFO  11:23:36,690 - #43 int
+INFO  11:23:36,690 - #43 nula
+INFO  11:23:36,691 - #12 =
+INFO  11:23:36,691 - #42 0
+INFO  11:23:36,691 - #3 ;
+INFO  11:23:36,693 - #11 const
+INFO  11:23:36,695 - #43 int
+INFO  11:23:36,695 - #43 jedan
+INFO  11:23:36,695 - #12 =
+INFO  11:23:36,695 - #42 1
+INFO  11:23:36,695 - #3 ;
+INFO  11:23:36,695 - #11 const
+INFO  11:23:36,695 - #43 int
+INFO  11:23:36,696 - #43 pet
+INFO  11:23:36,696 - #12 =
+INFO  11:23:36,696 - #42 5
+INFO  11:23:36,696 - #3 ;
+INFO  11:23:36,697 - #43 int
+INFO  11:23:36,698 - #43 niz
+INFO  11:23:36,698 - #5 [
+INFO  11:23:36,699 - #6 ]
+INFO  11:23:36,699 - #3 ;
+INFO  11:23:36,705 - #43 char
+INFO  11:23:36,707 - #43 nizch
+INFO  11:23:36,707 - #5 [
+INFO  11:23:36,708 - #6 ]
+INFO  11:23:36,708 - #3 ;
+INFO  11:23:36,708 - #43 int
+INFO  11:23:36,708 - #43 k
+INFO  11:23:36,709 - #3 ;
+INFO  11:23:36,709 - #7 {
+INFO  11:23:36,709 - #13 void
+INFO  11:23:36,710 - #43 incInput
+INFO  11:23:36,711 - #9 (
+INFO  11:23:36,711 - #10 )
+INFO  11:23:36,712 - #43 int
+INFO  11:23:36,712 - #43 i
+INFO  11:23:36,712 - #3 ;
+INFO  11:23:36,712 - #43 char
+INFO  11:23:36,713 - #43 j
+INFO  11:23:36,713 - #3 ;
+INFO  11:23:36,713 - #7 {
+INFO  11:23:36,714 - #24 print
+INFO  11:23:36,714 - #9 (
+INFO  11:23:36,714 - #45 false
+INFO  11:23:36,714 - #10 )
+INFO  11:23:36,715 - #3 ;
+INFO  11:23:36,716 - #23 read
+INFO  11:23:36,716 - #9 (
+INFO  11:23:36,717 - #43 j
+INFO  11:23:36,717 - #10 )
+INFO  11:23:36,718 - #3 ;
+INFO  11:23:36,718 - #23 read
+INFO  11:23:36,720 - #9 (
+INFO  11:23:36,720 - #43 i
+INFO  11:23:36,720 - #10 )
+INFO  11:23:36,721 - #3 ;
+INFO  11:23:36,721 - #24 print
+INFO  11:23:36,721 - #9 (
+INFO  11:23:36,721 - #43 i
+INFO  11:23:36,722 - #10 )
+INFO  11:23:36,722 - #3 ;
+INFO  11:23:36,722 - #43 i
+INFO  11:23:36,722 - #27 ++
+INFO  11:23:36,722 - #3 ;
+INFO  11:23:36,723 - #24 print
+INFO  11:23:36,723 - #9 (
+INFO  11:23:36,723 - #43 j
+INFO  11:23:36,723 - #10 )
+INFO  11:23:36,723 - #3 ;
+INFO  11:23:36,723 - #24 print
+INFO  11:23:36,724 - #9 (
+INFO  11:23:36,724 - #43 i
+INFO  11:23:36,724 - #10 )
+INFO  11:23:36,724 - #3 ;
+INFO  11:23:36,724 - #22 return
+INFO  11:23:36,724 - #43 i
+INFO  11:23:36,725 - #3 ;
+INFO  11:23:36,725 - #8 }
+INFO  11:23:36,725 - #13 void
+INFO  11:23:36,727 - #43 main
+INFO  11:23:36,727 - #9 (
+INFO  11:23:36,727 - #10 )
+INFO  11:23:36,727 - #43 int
+INFO  11:23:36,727 - #43 bodovi
+INFO  11:23:36,727 - #3 ;
+INFO  11:23:36,727 - #43 int
+INFO  11:23:36,727 - #43 i
+INFO  11:23:36,727 - #3 ;
+INFO  11:23:36,727 - #7 {
+INFO  11:23:36,728 - #43 bodovi
+INFO  11:23:36,728 - #12 =
+INFO  11:23:36,728 - #42 0
+INFO  11:23:36,729 - #3 ;
+INFO  11:23:36,730 - #43 bodovi
+INFO  11:23:36,730 - #27 ++
+INFO  11:23:36,730 - #3 ;
+INFO  11:23:36,730 - #17 if
+INFO  11:23:36,730 - #9 (
+INFO  11:23:36,731 - #44 a
+INFO  11:23:36,731 - #34 >
+INFO  11:23:36,731 - #43 bodovi
+INFO  11:23:36,732 - #10 )
+INFO  11:23:36,733 - #7 {
+INFO  11:23:36,733 - #43 bodovi
+INFO  11:23:36,734 - #27 ++
+INFO  11:23:36,734 - #3 ;
+INFO  11:23:36,734 - #8 }
+INFO  11:23:36,734 - #19 for
+INFO  11:23:36,735 - #9 (
+INFO  11:23:36,736 - #43 i
+INFO  11:23:36,736 - #12 =
+INFO  11:23:36,736 - #42 0
+INFO  11:23:36,736 - #3 ;
+INFO  11:23:36,737 - #43 i
+INFO  11:23:36,737 - #38 +
+INFO  11:23:36,737 - #42 3
+INFO  11:23:36,738 - #3 ;
+INFO  11:23:36,739 - #43 i
+INFO  11:23:36,739 - #38 +
+ERROR 11:23:36,739 - 
+Sintaksna greska na liniji 39
+INFO  11:23:36,740 - #10 )
+INFO  11:23:36,740 - #7 {
+INFO  11:23:36,740 - #8 }
+INFO  11:23:36,741 - #43 i
+ERROR 11:23:36,741 - Izvrsen oporavak na liniji 39
+INFO  11:23:36,743 - #12 =
+INFO  11:23:36,744 - #43 incInput
+INFO  11:23:36,744 - #9 (
+INFO  11:23:36,744 - #10 )
+INFO  11:23:36,744 - #3 ;
+INFO  11:23:36,744 - #8 }
+INFO  11:23:36,744 - #8 }
+INFO  11:23:36,762 - Deklarisana konstanta nula na liniji 3
+INFO  11:23:36,762 - Deklarisana konstanta jedan na liniji 4
+INFO  11:23:36,762 - Deklarisana konstanta pet na liniji 5
+INFO  11:23:36,762 - Deklarisan niz niz na liniji 7
+INFO  11:23:36,762 - Povratna vrednost deklarisane promenljive je int na liniji 7
+INFO  11:23:36,763 - Deklarisan niz nizch na liniji 8
+INFO  11:23:36,763 - Povratna vrednost deklarisane promenljive je char na liniji 8
+INFO  11:23:36,763 - Deklarisana promenljiva k na liniji 9
+INFO  11:23:36,763 - Povratna vrednost deklarisane promenljive je int na liniji 9
+INFO  11:23:36,763 - Obradjuje se void funkcija incInput na liniji 12
+INFO  11:23:36,763 - Deklarisana promenljiva i na liniji 13
+INFO  11:23:36,763 - Povratna vrednost deklarisane promenljive je int na liniji 13
+INFO  11:23:36,763 - Deklarisana promenljiva j na liniji 14
+INFO  11:23:36,763 - Povratna vrednost deklarisane promenljive je char na liniji 14
+INFO  11:23:36,763 - Prepoznata naredba print
+INFO  11:23:36,764 - Prepoznata naredba print
+INFO  11:23:36,764 - Prepoznata naredba print
+INFO  11:23:36,764 - Prepoznata naredba print
+ERROR 11:23:36,764 - Greska na liniji 25 : tip izraza u return naredbi se ne slaze sa tipom povratne vrednost metode incInput
+INFO  11:23:36,764 - Obradjuje se void funkcija main na liniji 28
+INFO  11:23:36,764 - Deklarisana promenljiva bodovi na liniji 29
+INFO  11:23:36,764 - Povratna vrednost deklarisane promenljive je int na liniji 29
+INFO  11:23:36,765 - Deklarisana promenljiva i na liniji 30
+INFO  11:23:36,765 - Povratna vrednost deklarisane promenljive je int na liniji 30
+ERROR 11:23:36,766 - Greska na liniji 35 : Nekompatibilni izrazi u uslovnoj dodeli! na liniji 35
+ERROR 11:23:36,766 - Greska! incInput se ne moze koristiti u izrazima jer nema povratnu vrednost! na liniji 42
+ERROR 11:23:36,766 - Greska na liniji 42 : nekompatibilni tipovi u dodeli vrednosti! na liniji 42
+INFO  11:23:36,766 - Nadjena main metoda
+INFO  11:23:36,766 - Print calls = 4
+ERROR 11:23:36,768 - Parsiranje NIJE uspesno zavrseno!

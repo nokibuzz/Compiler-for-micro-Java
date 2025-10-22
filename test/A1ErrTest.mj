@@ -1,0 +1,25 @@
+program testA1e
+
+	int a, b;
+	int err = 6;
+	int c, err1 = 1;
+	char x, y;
+	char z, err2 = 'c';
+{
+	void main()	{
+		
+		a = 1;
+		b = 2;
+		c = a + b;
+		
+		err1 = 5;
+		
+		x = 'a';
+		y = 'b';
+		z = 'c';
+		
+		err2 = 'd';
+		
+		return;
+	}
+}
